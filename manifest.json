@@ -1,0 +1,5 @@
+{
+  "dados_versao": "2024.2",
+  "municipios_url": "https://raw.githubusercontent.com/fredferramenta/saneabr-dados/main/municipios.json",
+  "app_minimo": "1.1"
+}
